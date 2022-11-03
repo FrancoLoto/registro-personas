@@ -1,0 +1,7 @@
+Franco, 27, M
+María, 30, F
+Joaquín, 20, M
+Vanesa, 24, F
+Marta, 56, F
+Pedro, 36, M
+Gabriela, 18, M
